@@ -677,7 +677,16 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
+![page1](https://github.com/jabezs2005/event-registration/assets/147473463/bd44cdd4-0e60-47a3-858d-04c494abf42f)
+
+![page2](https://github.com/jabezs2005/event-registration/assets/147473463/4d341d8f-9254-477f-b4ff-9a98636d4a3e)
+
+![page3](https://github.com/jabezs2005/event-registration/assets/147473463/acf861ba-57d8-4115-b13a-25e1403733d1)
+
+![page4](https://github.com/jabezs2005/event-registration/assets/147473463/9b558d3d-4a5f-430b-8f44-2d66a5e5cd62)
+
+![page5](https://github.com/jabezs2005/event-registration/assets/147473463/3503a902-e915-4801-bc8d-0cbc7ef9bb78)
 
 
 ## Result:
-
+The program to design, develop and deploy a web application for event registration is completed successfully.
