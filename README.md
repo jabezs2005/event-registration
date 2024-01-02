@@ -4,12 +4,10 @@
 To design, develop and deploy a web application for event registration.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Open your chrome or any browser and create an account in figma
 
 ### Step 2:
-
 Using the frame tool add in a frame of your choice
 
 ### Step 3:
@@ -20,16 +18,14 @@ Add login and create account pages
 
 ### Step 5:
 Fork the repository and clone it into vs code
-### Step 6:
 
+### Step 6:
 Validate the HTML and CSS code.
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## DESIGN:
-
 ## PROGRAM :
 ## Login Page :
 ```
@@ -425,7 +421,6 @@ Publish the website in the given URL.
     white-space: nowrap;
   }
 }
-
 ```
 ## Event Registration :
  ```
@@ -674,19 +669,22 @@ Publish the website in the given URL.
     white-space: nowrap;
   }
 }
-
 ```
-## OUTPUT:
+### OUTPUT:
+## Login Page:
 ![page1](https://github.com/jabezs2005/event-registration/assets/147473463/bd44cdd4-0e60-47a3-858d-04c494abf42f)
 
+## Account Creation Page :
 ![page2](https://github.com/jabezs2005/event-registration/assets/147473463/4d341d8f-9254-477f-b4ff-9a98636d4a3e)
 
+## Account Creation Successfull Page :
 ![page3](https://github.com/jabezs2005/event-registration/assets/147473463/acf861ba-57d8-4115-b13a-25e1403733d1)
 
+## Event Registration Page :
 ![page4](https://github.com/jabezs2005/event-registration/assets/147473463/9b558d3d-4a5f-430b-8f44-2d66a5e5cd62)
 
+## Event Successfully Registered Page :
 ![page5](https://github.com/jabezs2005/event-registration/assets/147473463/3503a902-e915-4801-bc8d-0cbc7ef9bb78)
 
-
-## Result:
+### Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
