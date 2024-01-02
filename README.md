@@ -1,8 +1,6 @@
 # Event Registration Web Application
-
 ## AIM:
 To design, develop and deploy a web application for event registration.
-
 ## DESIGN STEPS:
 ### Step 1:
 Open your chrome or any browser and create an account in figma
@@ -26,8 +24,8 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN:
-## PROGRAM :
-## Login Page :
+## PROGRAM:
+## Login Page:
 ```
 .desktop-1-RLH {
   align-items: center;
@@ -203,7 +201,7 @@ Publish the website in the given URL.
 }
 ```
 
-## Account Creation Page :
+## Account Creation Page:
 ```
 .desktop-2-3tq {
   align-items: center;
@@ -360,7 +358,7 @@ Publish the website in the given URL.
 }
 
 ```
-## Account Created Successfull :
+## Account Created Successfull:
 ```
 .desktop-3-8QV {
   align-items: center;
@@ -422,7 +420,7 @@ Publish the website in the given URL.
   }
 }
 ```
-## Event Registration :
+## Event Registration:
  ```
  .desktop-4-3tH {
   background-color: #ffffff;
@@ -609,7 +607,7 @@ Publish the website in the given URL.
   }
 }
 ```
-## Registration Successfull Page :
+## Registration Successfull Page:
 ```
 .desktop-5-4ww {
   align-items: center;
@@ -671,15 +669,15 @@ Publish the website in the given URL.
 }
 ```
 ### OUTPUT:
-## Login Page:
+## Login Page
 ![page1](https://github.com/jabezs2005/event-registration/assets/147473463/bd44cdd4-0e60-47a3-858d-04c494abf42f)
-## Account Creation Page:
+## Account Creation Page
 ![page2](https://github.com/jabezs2005/event-registration/assets/147473463/4d341d8f-9254-477f-b4ff-9a98636d4a3e)
-## Account Creation Successfull Page:
+## Account Creation Successfull Page
 ![page3](https://github.com/jabezs2005/event-registration/assets/147473463/acf861ba-57d8-4115-b13a-25e1403733d1)
-## Event Registration Page:
+## Event Registration Page
 ![page4](https://github.com/jabezs2005/event-registration/assets/147473463/9b558d3d-4a5f-430b-8f44-2d66a5e5cd62)
-## Event Successfully Registered Page:
+## Event Successfully Registered Page
 ![page5](https://github.com/jabezs2005/event-registration/assets/147473463/3503a902-e915-4801-bc8d-0cbc7ef9bb78)
 
 ### Result:
